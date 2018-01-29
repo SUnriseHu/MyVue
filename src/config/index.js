@@ -10,7 +10,7 @@ module.export = {
     subDirectory: 'static',
     publicPath: '/',
       proxyTable: {
-        '/api/**': 'http:localhost:8080'
+        '/api/**': 'http://localhost:8080'
       },
     cssSourceMap: false
   }

@@ -13,7 +13,8 @@
     "vue": "^2.5.11",
     "vue-resource": "^1.3.5",
     "vue-router": "^3.0.1",
-    "axios": "latest"
+    "axios": "latest",
+    "qs": "latest"
   },
   "browserslist": [
     "> 1%",
